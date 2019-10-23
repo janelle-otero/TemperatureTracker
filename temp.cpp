@@ -2,15 +2,6 @@
 #include <iomanip>
 using namespace std;
 
-/* Name: Janelle Otero
-Date: 9/30/19
-Section: 10
-Assignment: Homework #3
-Due Date: 10/4/19
-About this project: With this project I will be able to calculate the temperature from Fahrenheit to Celcius. Then I will show the user how many temperatures I converted and what teh average of those temperatures were.
-
-All work below was performed by Janelle Otero */
-
 int main() {
 
     //setting up the degrees as doubles to be decimals, allowing the user to put Y/y/N/n to another temp, and initiating counter
